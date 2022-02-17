@@ -137,6 +137,10 @@ Learn how to [create a personal access token for GitHub](https://docs.github.com
 
 Who learned something interesting about the group they were assigned?
 
+## Overview of Repositories
+
+Review [these slides](https://github.com/FoundCompBio-Spr22/Git_Week5/blob/main/repositories.pdf) about how to create and sync repositories locally and on GitHub.
+
 ## Git Resources
 
 - [Pro Git Book](https://git-scm.com/book/en/v2)
